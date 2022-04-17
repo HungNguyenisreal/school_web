@@ -31,7 +31,7 @@ li{
     flex-wrap: wrap;
 }
 header{
-    background-image: url("/assets/img/bg.jpg");
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -380,7 +380,7 @@ header{
 
 /* --------------------Contact---------------------- */
 .contact{
-    background-image: url('/assets/img/bg1.jpg');
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
